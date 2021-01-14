@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8hRN1gnRhC1+NmIhnkJgy5D96V6kL0gQ9bAE/2bT1RRZg2ljFmgQIT8SMfW+L7qegXSvwgYH+4ITZE6spz3zzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vasilica\\source\\repos\\ray-tracer-VasilicaMoldovan\\ray-tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasilica\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-rc.1.20451.14\\microsoft.netcore.platforms.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\Vasilica\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-rc.1.20451.14\\microsoft.win32.systemevents.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\Vasilica\\.nuget\\packages\\system.drawing.common\\5.0.0-rc.1.20451.14\\system.drawing.common.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}

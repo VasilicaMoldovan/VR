@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Tiger/Scene 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Tiger/Scene 2.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Tiger/Scene 3.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Tiger/Scene 4.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Tiger/Scene 5.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/scene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
